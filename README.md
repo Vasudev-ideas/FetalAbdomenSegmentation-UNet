@@ -139,5 +139,5 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]**
+Developed by **[VASU P]**
 AI/ML Engineer | Medical Imaging Enthusiast
